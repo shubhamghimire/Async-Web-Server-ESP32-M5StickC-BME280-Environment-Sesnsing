@@ -14,7 +14,7 @@
  - The webpage can be accessed through client’s browser using the IP address of M5StickC.
  - The values are automatically updated every 5 seconds. 
 
-![Screenshot](screenshots/browser_view.)
+![Screenshot](screenshots/browser_view.PNG)
 
 
 
